@@ -54,7 +54,7 @@ You can follow the steps given below:
 ![tutorial image for encoding text file](https://github.com/ethanhunt2811/Huffman_Coding_of_Files/assets/86483407/2b4907b5-a713-4a4b-83db-1279ceb9ffbd)
 
 
-3) For Decompressing compressed file compressedFile.huf , command is ./decode compressedFile.huf outputFile.txt  :
+2) For Decompressing compressed file compressedFile.huf , command is ./decode compressedFile.huf outputFile.txt  :
 
 ![tutorial image for decoding from compressed file](https://github.com/ethanhunt2811/Huffman_Coding_of_Files/assets/86483407/517adbba-3fa8-4c98-b8dc-b91e79e093ee)
 
